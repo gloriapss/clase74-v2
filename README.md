@@ -1,2 +1,2 @@
-# clase74-v2
-Clase 74 - V2 Search
+# Biblioteca digital-v2-PRO-C74
+Código de solución para C74
